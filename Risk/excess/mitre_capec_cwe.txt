@@ -1,0 +1,806 @@
+CAPEC ID: CAPEC-1, ATTACK ID: T1574
+  CWE ID: CWE-276, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-285, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-434, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-693, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-732, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1191, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1193, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1220, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1297, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1311, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1314, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1315, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1318, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1320, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1321, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1327, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-2, ATTACK ID: T1531
+  CWE ID: CWE-645, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-11, ATTACK ID: T1036
+  CWE ID: CWE-430, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-13, ATTACK ID: T1574
+  CWE ID: CWE-353, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-285, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-302, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-74, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-15, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-73, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-20, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-200, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-13, ATTACK ID: T1562
+  CWE ID: CWE-353, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-285, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-302, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-74, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-15, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-73, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-20, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-200, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-17, ATTACK ID: T1574
+  CWE ID: CWE-732, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-285, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-272, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-59, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-282, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-270, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-693, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-19, ATTACK ID: T1546
+  CWE ID: CWE-284, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-19, ATTACK ID: T1027
+  CWE ID: CWE-284, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-21, ATTACK ID: T1528
+  CWE ID: CWE-290, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-302, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-346, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-539, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-6, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-384, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-664, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-602, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-642, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-21, ATTACK ID: T1134
+  CWE ID: CWE-290, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-302, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-346, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-539, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-6, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-384, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-664, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-602, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-642, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-21, ATTACK ID: T1539
+  CWE ID: CWE-290, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-302, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-346, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-539, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-6, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-384, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-664, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-602, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-642, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-25, ATTACK ID: T1499
+  CWE ID: CWE-412, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-567, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-662, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-667, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-833, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1322, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-30, ATTACK ID: T1055
+  CWE ID: CWE-270, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-31, ATTACK ID: T1539
+  CWE ID: CWE-565, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-302, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-311, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-113, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-539, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-20, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-315, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-384, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-472, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-602, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-642, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-35, ATTACK ID: T1564
+  CWE ID: CWE-94, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-96, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-95, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-97, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-272, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-59, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-282, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-270, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-35, ATTACK ID: T1027
+  CWE ID: CWE-94, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-96, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-95, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-97, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-272, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-59, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-282, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-270, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-37, ATTACK ID: T1552
+  CWE ID: CWE-226, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-311, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-525, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-312, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-314, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-315, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-318, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1239, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1258, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1266, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1272, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1278, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1301, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1330, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-37, ATTACK ID: T1005
+  CWE ID: CWE-226, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-311, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-525, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-312, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-314, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-315, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-318, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1239, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1258, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1266, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1272, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1278, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1301, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1330, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-38, ATTACK ID: T1574
+  CWE ID: CWE-426, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-427, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-49, ATTACK ID: T1110
+  CWE ID: CWE-521, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-262, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-263, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-257, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-654, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-307, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-308, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-309, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-55, ATTACK ID: T1110
+  CWE ID: CWE-261, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-521, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-262, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-263, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-654, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-916, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-308, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-309, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-57, ATTACK ID: T1040
+  CWE ID: CWE-300, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-287, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-693, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-60, ATTACK ID: T1550
+  CWE ID: CWE-294, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-290, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-346, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-384, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-488, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-539, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-200, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-285, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-664, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-732, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-60, ATTACK ID: T1134
+  CWE ID: CWE-294, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-290, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-346, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-384, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-488, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-539, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-200, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-285, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-664, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-732, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-65, ATTACK ID: T1040
+  CWE ID: CWE-319, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-311, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-318, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-693, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-68, ATTACK ID: T1553
+  CWE ID: CWE-325, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-328, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1326, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-70, ATTACK ID: T1078
+  CWE ID: CWE-521, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-262, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-263, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-798, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-654, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-308, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-309, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-94, ATTACK ID: T1557
+  CWE ID: CWE-300, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-290, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-593, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-287, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-294, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-98, ATTACK ID: T1598
+  CWE ID: CWE-451, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-98, ATTACK ID: T1566
+  CWE ID: CWE-451, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-112, ATTACK ID: T1110
+  CWE ID: CWE-330, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-326, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-521, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-114, ATTACK ID: T1548
+  CWE ID: CWE-287, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1244, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-115, ATTACK ID: T1548
+  CWE ID: CWE-287, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-122, ATTACK ID: T1548
+  CWE ID: CWE-269, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-732, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1317, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-125, ATTACK ID: T1499
+  CWE ID: CWE-404, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-770, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-125, ATTACK ID: T1498
+  CWE ID: CWE-404, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-770, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-127, ATTACK ID: T1083
+  CWE ID: CWE-424, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-425, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-288, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-285, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-732, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-276, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-693, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-130, ATTACK ID: T1499
+  CWE ID: CWE-404, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-770, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1325, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-131, ATTACK ID: T1499
+  CWE ID: CWE-404, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-132, ATTACK ID: T1547
+  CWE ID: CWE-59, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-141, ATTACK ID: T1557
+  CWE ID: CWE-348, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-345, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-349, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-346, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-142, ATTACK ID: T1584
+  CWE ID: CWE-348, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-345, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-349, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-346, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-350, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-148, ATTACK ID: T1491
+  CWE ID: CWE-345, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-150, ATTACK ID: T1602
+  CWE ID: CWE-552, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1239, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1258, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1266, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1272, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1323, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1330, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-150, ATTACK ID: T1530
+  CWE ID: CWE-552, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1239, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1258, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1266, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1272, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1323, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1330, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-150, ATTACK ID: T1555
+  CWE ID: CWE-552, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1239, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1258, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1266, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1272, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1323, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1330, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-150, ATTACK ID: T1003
+  CWE ID: CWE-552, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1239, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1258, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1266, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1272, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1323, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1330, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-150, ATTACK ID: T1213
+  CWE ID: CWE-552, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1239, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1258, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1266, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1272, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1323, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1330, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-150, ATTACK ID: T1119
+  CWE ID: CWE-552, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1239, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1258, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1266, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1272, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1323, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1330, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-158, ATTACK ID: T1040
+  CWE ID: CWE-311, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-158, ATTACK ID: T1111
+  CWE ID: CWE-311, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-159, ATTACK ID: T1574
+  CWE ID: CWE-706, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-163, ATTACK ID: T1598
+  CWE ID: CWE-451, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-163, ATTACK ID: T1534
+  CWE ID: CWE-451, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-163, ATTACK ID: T1566
+  CWE ID: CWE-451, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-165, ATTACK ID: T1036
+CAPEC ID: CAPEC-169, ATTACK ID: T1592
+  CWE ID: CWE-200, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-169, ATTACK ID: T1595
+  CWE ID: CWE-200, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-169, ATTACK ID: T1217
+  CWE ID: CWE-200, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-177, ATTACK ID: T1036
+  CWE ID: CWE-706, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-180, ATTACK ID: T1574
+  CWE ID: CWE-732, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1190, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1191, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1193, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1220, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1268, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1280, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1297, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1311, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1315, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1318, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1320, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1321, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-186, ATTACK ID: T1195
+  CWE ID: CWE-494, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-187, ATTACK ID: T1072
+  CWE ID: CWE-494, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-191, ATTACK ID: T1552
+  CWE ID: CWE-798, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-196, ATTACK ID: T1134
+  CWE ID: CWE-384, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-664, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-196, ATTACK ID: T1606
+  CWE ID: CWE-384, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-664, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-203, ATTACK ID: T1647
+  CWE ID: CWE-15, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-203, ATTACK ID: T1112
+  CWE ID: CWE-15, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-204, ATTACK ID: T1005
+  CWE ID: CWE-524, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-311, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1239, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1258, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-206, ATTACK ID: T1553
+  CWE ID: CWE-732, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-227, ATTACK ID: T1499
+  CWE ID: CWE-400, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-233, ATTACK ID: T1548
+  CWE ID: CWE-269, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1264, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1311, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-251, ATTACK ID: T1055
+  CWE ID: CWE-829, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-267, ATTACK ID: T1027
+  CWE ID: CWE-173, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-172, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-180, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-181, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-73, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-74, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-20, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-697, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-692, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-268, ATTACK ID: T1562
+  CWE ID: CWE-117, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-268, ATTACK ID: T1070
+  CWE ID: CWE-117, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-270, ATTACK ID: T1547
+  CWE ID: CWE-15, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-292, ATTACK ID: T1018
+  CWE ID: CWE-200, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-295, ATTACK ID: T1124
+  CWE ID: CWE-200, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-300, ATTACK ID: T1046
+  CWE ID: CWE-200, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-309, ATTACK ID: T1016
+  CWE ID: CWE-200, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-309, ATTACK ID: T1049
+  CWE ID: CWE-200, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-309, ATTACK ID: T1590
+  CWE ID: CWE-200, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-312, ATTACK ID: T1082
+  CWE ID: CWE-200, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-313, ATTACK ID: T1082
+  CWE ID: CWE-200, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-383, ATTACK ID: T1056
+  CWE ID: CWE-311, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-319, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-419, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-602, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-407, ATTACK ID: T1589
+CAPEC ID: CAPEC-438, ATTACK ID: T1195
+CAPEC ID: CAPEC-439, ATTACK ID: T1195
+  CWE ID: CWE-1269, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-440, ATTACK ID: T1195
+CAPEC ID: CAPEC-440, ATTACK ID: T1200
+CAPEC ID: CAPEC-442, ATTACK ID: T1195
+  CWE ID: CWE-506, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-443, ATTACK ID: T1195
+CAPEC ID: CAPEC-445, ATTACK ID: T1195
+CAPEC ID: CAPEC-446, ATTACK ID: T1195
+CAPEC ID: CAPEC-448, ATTACK ID: T1027
+  CWE ID: CWE-506, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-457, ATTACK ID: T1092
+  CWE ID: CWE-1299, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-457, ATTACK ID: T1091
+  CWE ID: CWE-1299, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-464, ATTACK ID: T1606
+  CWE ID: CWE-359, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-465, ATTACK ID: T1090
+  CWE ID: CWE-441, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-469, ATTACK ID: T1499
+  CWE ID: CWE-770, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-772, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-471, ATTACK ID: T1574
+  CWE ID: CWE-427, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-473, ATTACK ID: T1036
+  CWE ID: CWE-20, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-327, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-290, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-473, ATTACK ID: T1553
+  CWE ID: CWE-20, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-327, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-290, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-474, ATTACK ID: T1552
+  CWE ID: CWE-522, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-478, ATTACK ID: T1543
+  CWE ID: CWE-284, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-478, ATTACK ID: T1574
+  CWE ID: CWE-284, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-479, ATTACK ID: T1553
+  CWE ID: CWE-284, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-480, ATTACK ID: T1611
+  CWE ID: CWE-693, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-481, ATTACK ID: T1090
+  CWE ID: CWE-923, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-482, ATTACK ID: T1499
+  CWE ID: CWE-770, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-482, ATTACK ID: T1498
+  CWE ID: CWE-770, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-485, ATTACK ID: T1552
+  CWE ID: CWE-330, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-488, ATTACK ID: T1499
+  CWE ID: CWE-770, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-489, ATTACK ID: T1499
+  CWE ID: CWE-770, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-490, ATTACK ID: T1498
+  CWE ID: CWE-770, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-497, ATTACK ID: T1083
+  CWE ID: CWE-200, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-504, ATTACK ID: T1036
+  CWE ID: CWE-1021, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-509, ATTACK ID: T1558
+  CWE ID: CWE-522, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-308, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-309, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-294, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-263, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-262, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-521, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-511, ATTACK ID: T1195
+CAPEC ID: CAPEC-516, ATTACK ID: T1195
+CAPEC ID: CAPEC-520, ATTACK ID: T1195
+CAPEC ID: CAPEC-522, ATTACK ID: T1195
+CAPEC ID: CAPEC-523, ATTACK ID: T1195
+CAPEC ID: CAPEC-528, ATTACK ID: T1499
+  CWE ID: CWE-770, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-528, ATTACK ID: T1498
+  CWE ID: CWE-770, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-531, ATTACK ID: T1195
+CAPEC ID: CAPEC-532, ATTACK ID: T1542
+CAPEC ID: CAPEC-532, ATTACK ID: T1495
+CAPEC ID: CAPEC-537, ATTACK ID: T1195
+CAPEC ID: CAPEC-538, ATTACK ID: T1195
+  CWE ID: CWE-494, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-829, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-539, ATTACK ID: T1195
+CAPEC ID: CAPEC-541, ATTACK ID: T1592
+  CWE ID: CWE-204, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-205, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-208, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-542, ATTACK ID: T1027
+CAPEC ID: CAPEC-542, ATTACK ID: T1587
+CAPEC ID: CAPEC-543, ATTACK ID: T1036
+CAPEC ID: CAPEC-545, ATTACK ID: T1555
+  CWE ID: CWE-1239, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1243, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1258, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1266, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1272, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1278, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1323, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1258, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1330, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-545, ATTACK ID: T1005
+  CWE ID: CWE-1239, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1243, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1258, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1266, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1272, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1278, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1323, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1258, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1330, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-550, ATTACK ID: T1543
+  CWE ID: CWE-284, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-551, ATTACK ID: T1543
+  CWE ID: CWE-284, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-522, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-552, ATTACK ID: T1542
+  CWE ID: CWE-284, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-552, ATTACK ID: T1547
+  CWE ID: CWE-284, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-552, ATTACK ID: T1014
+  CWE ID: CWE-284, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-555, ATTACK ID: T1133
+  CWE ID: CWE-522, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-308, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-309, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-294, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-263, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-262, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-521, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-555, ATTACK ID: T1114
+  CWE ID: CWE-522, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-308, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-309, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-294, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-263, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-262, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-521, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-555, ATTACK ID: T1021
+  CWE ID: CWE-522, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-308, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-309, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-294, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-263, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-262, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-521, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-556, ATTACK ID: T1546
+  CWE ID: CWE-284, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-558, ATTACK ID: T1505
+  CWE ID: CWE-284, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-558, ATTACK ID: T1546
+  CWE ID: CWE-284, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-560, ATTACK ID: T1078
+  CWE ID: CWE-522, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-307, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-308, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-309, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-262, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-263, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-654, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1273, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-561, ATTACK ID: T1021
+  CWE ID: CWE-522, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-308, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-309, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-294, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-263, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-262, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-521, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-562, ATTACK ID: T1080
+  CWE ID: CWE-284, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-564, ATTACK ID: T1543
+  CWE ID: CWE-284, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-564, ATTACK ID: T1037
+  CWE ID: CWE-284, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-564, ATTACK ID: T1547
+  CWE ID: CWE-284, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-565, ATTACK ID: T1110
+  CWE ID: CWE-521, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-262, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-263, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-654, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-307, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-308, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-309, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-568, ATTACK ID: T1056
+CAPEC ID: CAPEC-569, ATTACK ID: T1056
+CAPEC ID: CAPEC-571, ATTACK ID: T1562
+CAPEC ID: CAPEC-572, ATTACK ID: T1027
+CAPEC ID: CAPEC-573, ATTACK ID: T1057
+  CWE ID: CWE-200, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-574, ATTACK ID: T1007
+  CWE ID: CWE-200, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-575, ATTACK ID: T1087
+  CWE ID: CWE-200, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-576, ATTACK ID: T1615
+  CWE ID: CWE-200, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-576, ATTACK ID: T1069
+  CWE ID: CWE-200, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-577, ATTACK ID: T1033
+  CWE ID: CWE-200, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-578, ATTACK ID: T1556
+  CWE ID: CWE-284, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-578, ATTACK ID: T1562
+  CWE ID: CWE-284, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-579, ATTACK ID: T1547
+  CWE ID: CWE-15, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-580, ATTACK ID: T1082
+  CWE ID: CWE-204, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-205, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-208, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-581, ATTACK ID: T1518
+CAPEC ID: CAPEC-593, ATTACK ID: T1185
+  CWE ID: CWE-287, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-593, ATTACK ID: T1550
+  CWE ID: CWE-287, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-593, ATTACK ID: T1563
+  CWE ID: CWE-287, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-600, ATTACK ID: T1110
+  CWE ID: CWE-522, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-307, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-308, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-309, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-262, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-263, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-654, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-609, ATTACK ID: T1111
+  CWE ID: CWE-311, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-616, ATTACK ID: T1036
+  CWE ID: CWE-200, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-620, ATTACK ID: T1600
+  CWE ID: CWE-757, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-633, ATTACK ID: T1134
+  CWE ID: CWE-287, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1270, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-634, ATTACK ID: T1125
+  CWE ID: CWE-267, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-634, ATTACK ID: T1123
+  CWE ID: CWE-267, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-635, ATTACK ID: T1036
+  CWE ID: CWE-162, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-636, ATTACK ID: T1218
+  CWE ID: CWE-506, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-636, ATTACK ID: T1221
+  CWE ID: CWE-506, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-636, ATTACK ID: T1001
+  CWE ID: CWE-506, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-636, ATTACK ID: T1027
+  CWE ID: CWE-506, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-637, ATTACK ID: T1115
+  CWE ID: CWE-267, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-638, ATTACK ID: T1542
+CAPEC ID: CAPEC-639, ATTACK ID: T1039
+  CWE ID: CWE-552, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-639, ATTACK ID: T1552
+  CWE ID: CWE-552, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-640, ATTACK ID: T1505
+  CWE ID: CWE-114, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-829, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-640, ATTACK ID: T1574
+  CWE ID: CWE-114, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-829, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-640, ATTACK ID: T1620
+  CWE ID: CWE-114, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-829, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-641, ATTACK ID: T1574
+  CWE ID: CWE-706, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-642, ATTACK ID: T1505
+  CWE ID: CWE-732, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-642, ATTACK ID: T1574
+  CWE ID: CWE-732, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-642, ATTACK ID: T1554
+  CWE ID: CWE-732, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-643, ATTACK ID: T1135
+  CWE ID: CWE-267, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-200, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-644, ATTACK ID: T1550
+  CWE ID: CWE-522, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-836, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-308, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-294, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-308, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-645, ATTACK ID: T1550
+  CWE ID: CWE-522, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-294, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-308, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-646, ATTACK ID: T1120
+  CWE ID: CWE-200, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-647, ATTACK ID: T1012
+  CWE ID: CWE-285, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-647, ATTACK ID: T1552
+  CWE ID: CWE-285, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-647, ATTACK ID: T1005
+  CWE ID: CWE-285, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-648, ATTACK ID: T1513
+  CWE ID: CWE-267, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-648, ATTACK ID: T1113
+  CWE ID: CWE-267, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-649, ATTACK ID: T1036
+  CWE ID: CWE-46, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-650, ATTACK ID: T1505
+  CWE ID: CWE-287, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-553, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-651, ATTACK ID: T1111
+  CWE ID: CWE-200, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-652, ATTACK ID: T1558
+  CWE ID: CWE-522, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-307, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-308, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-309, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-262, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-263, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-654, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-294, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-836, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-654, ATTACK ID: T1548
+  CWE ID: CWE-1021, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-654, ATTACK ID: T1056
+  CWE ID: CWE-1021, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-655, ATTACK ID: T1027
+CAPEC ID: CAPEC-657, ATTACK ID: T1072
+  CWE ID: CWE-494, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-660, ATTACK ID: T1055
+  CWE ID: CWE-829, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-662, ATTACK ID: T1185
+  CWE ID: CWE-300, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-494, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-665, ATTACK ID: T1542
+  CWE ID: CWE-345, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-353, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-288, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1188, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-862, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-665, ATTACK ID: T1556
+  CWE ID: CWE-345, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-353, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-288, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1188, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-862, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-665, ATTACK ID: T1211
+  CWE ID: CWE-345, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-353, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-288, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-1188, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-862, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-666, ATTACK ID: T1499
+  CWE ID: CWE-404, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-666, ATTACK ID: T1498
+  CWE ID: CWE-404, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-668, ATTACK ID: T1565
+  CWE ID: CWE-425, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-285, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-693, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-669, ATTACK ID: T1195
+CAPEC ID: CAPEC-670, ATTACK ID: T1195
+CAPEC ID: CAPEC-670, ATTACK ID: T1127
+CAPEC ID: CAPEC-671, ATTACK ID: T1195
+CAPEC ID: CAPEC-672, ATTACK ID: T1195
+CAPEC ID: CAPEC-673, ATTACK ID: T1195
+CAPEC ID: CAPEC-674, ATTACK ID: T1195
+CAPEC ID: CAPEC-675, ATTACK ID: T1052
+  CWE ID: CWE-1266, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-677, ATTACK ID: T1195
+CAPEC ID: CAPEC-678, ATTACK ID: T1195
+CAPEC ID: CAPEC-691, ATTACK ID: T1195
+  CWE ID: CWE-494, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-694, ATTACK ID: T1614
+  CWE ID: CWE-497, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-695, ATTACK ID: T1195
+  CWE ID: CWE-494, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-829, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-697, ATTACK ID: T1557
+  CWE ID: CWE-923, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-698, ATTACK ID: T1505
+  CWE ID: CWE-507, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-829, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-698, ATTACK ID: T1176
+  CWE ID: CWE-507, Name: Нет названия, Description: Нет описания
+  CWE ID: CWE-829, Name: Нет названия, Description: Нет описания
+CAPEC ID: CAPEC-700, ATTACK ID: T1599
